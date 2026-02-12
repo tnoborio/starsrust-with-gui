@@ -25,3 +25,4 @@ clap = { version = "4.5.47", features = ["derive"] }
 configparser = "3.1.0"
 dns-lookup = "2.1.1"
 chrono = "0.4.42"
+bevy = { version = "0.18", default-features = false, features = ["2d"] }
